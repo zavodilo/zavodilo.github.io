@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Demo Sites
+title: Companies services search sites
 ---
 
-Ыearch for information about organizations and services on mapsю
+Search for information about organizations and services on maps.
 
 * <http://google.com/>
 * <http://bing.com/>
