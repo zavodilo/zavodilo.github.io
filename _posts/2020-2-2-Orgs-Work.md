@@ -12,7 +12,7 @@ Workâ€”mental and physical tasks to produce goods and services for human needsâ€
 
 Check site:
 * <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Forgs.work%2F>
-* <https://requestmap.webperf.tools/render/201202_DiX9_2aa4e7139ca7452c9a7888b49278571b>
+* <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Forgs.work>
 * <https://webpagetest.org/result/201202_DiKP_c22e902489068c9551cf39a1c160f74d/>
 * <https://fae.disability.illinois.edu/pages/176225b08902ab37/rc/all/page/1/>
 * <https://fae.disability.illinois.edu/pages/176225984f173dcf/rc/all/page/1/>
@@ -35,12 +35,10 @@ Check site:
 * <https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Forgs.work%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
 * <https://datayze.com/site-validator?domain=http%3A%2F%2Forgs.work%2F&parameters=&exclude=>
 * <http://www.wholinks2me.com/details.php?url=orgs.work>
-* <https://www.accessify.com/f/orgs.work>
 * <https://www.easycounter.com/report/orgs.work>
 * <https://securityheaders.com/?followRedirects=on&hide=on&q=orgs.work>
 * <https://observatory.mozilla.org/analyze/orgs.work#third-party>
 * <https://whois.domaintools.com/orgs.work>
-* <https://whatcms.org/?s=orgs.work>
 * <https://wave.webaim.org/report#/http://orgs.work/>
 * <https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Forgs.work%2F>
 * <https://validator.w3.org/i18n-checker/check?uri=http%3A%2F%2Forgs.work%2F#validate-by-uri+>
