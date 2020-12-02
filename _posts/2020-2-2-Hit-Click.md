@@ -18,7 +18,7 @@ Hit click - monitoring on the Internet, monitoring the information field, brand 
 
 Check site:
 * <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Fhit.click%2F>
-* <https://requestmap.webperf.tools/render/201202_DiTK_c389b3721617fdcab96ab000f5a072ea>
+* <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Fhit.click>
 * <https://webpagetest.org/result/201202_DiFR_5bce4390c454ea266e9f46039d521641/>
 * <https://fae.disability.illinois.edu/pages/1762272691812414/rc/all/page/1/>
 * <https://fae.disability.illinois.edu/pages/1762271faba02b06/rc/all/page/1/>
@@ -41,12 +41,10 @@ Check site:
 * <https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fhit.click%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
 * <https://datayze.com/site-validator?domain=http%3A%2F%2Fhit.click%2F&parameters=&exclude=>
 * <http://www.wholinks2me.com/details.php?url=hit.click>
-* <https://www.accessify.com/f/hit.click>
 * <https://www.easycounter.com/report/hit.click>
 * <https://securityheaders.com/?followRedirects=on&hide=on&q=hit.click>
 * <https://observatory.mozilla.org/analyze/hit.click#third-party>
 * <https://whois.domaintools.com/hit.click>
-* <https://whatcms.org/?s=hit.click>
 * <https://wave.webaim.org/report#/http://hit.click/>
 * <https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Fhit.click%2F>
 * <https://validator.w3.org/i18n-checker/check?uri=http%3A%2F%2Fhit.click%2F#validate-by-uri+>
