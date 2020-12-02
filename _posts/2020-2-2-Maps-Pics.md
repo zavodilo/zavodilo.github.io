@@ -22,7 +22,7 @@ Find impressions.
 
 Check site:
 * <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Fmaps.pics%2F>
-* <https://requestmap.webperf.tools/render/201202_Di11_76dcca166dad17445943237ee0a9ea6c>
+* <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Fmaps.pics>
 * <https://webpagetest.org/result/201202_DiSX_359a6d7992d300c36c5b17a43e5ad3b0/>
 * <https://fae.disability.illinois.edu/pages/176226df68c20d07/rc/all/page/1/>
 * <https://fae.disability.illinois.edu/pages/176226d81b11f051/rc/all/page/1/>
@@ -45,12 +45,10 @@ Check site:
 * <https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fmaps.pics%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
 * <https://datayze.com/site-validator?domain=http%3A%2F%2Fmaps.pics%2F&parameters=&exclude=>
 * <http://www.wholinks2me.com/details.php?url=maps.pics>
-* <https://www.accessify.com/f/maps.pics>
 * <https://www.easycounter.com/report/maps.pics>
 * <https://securityheaders.com/?followRedirects=on&hide=on&q=maps.pics>
 * <https://observatory.mozilla.org/analyze/maps.pics#third-party>
 * <https://whois.domaintools.com/maps.pics>
-* <https://whatcms.org/?s=maps.pics>
 * <https://wave.webaim.org/report#/http://maps.pics/>
 * <https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Fmaps.pics%2F>
 * <https://validator.w3.org/i18n-checker/check?uri=http%3A%2F%2Fmaps.pics%2F#validate-by-uri+>
