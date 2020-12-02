@@ -18,8 +18,8 @@ Reputation management is the effort to influence what and how people think of a 
 <http://each.click>
 
 Check site:
+* <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Feach.click%2F>
 * <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Feach.click>
-* <https://requestmap.webperf.tools/render/201202_Di0Q_7199eb0c2e2a66397fc7efb0d1c6686b>
 * <https://webpagetest.org/result/201202_DiVZ_dbeddda762cd5b3091099e73fa9c9527/>
 * <https://fae.disability.illinois.edu/pages/1762279f3558407b/rc/all/page/1/>
 * <https://fae.disability.illinois.edu/pages/176227b2a13819cf/rc/all/page/1/>
@@ -42,12 +42,10 @@ Check site:
 * <https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Feach.click%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
 * <https://datayze.com/site-validator?domain=http%3A%2F%2Feach.click%2F&parameters=&exclude=>
 * <http://www.wholinks2me.com/details.php?url=each.click>
-* <https://www.accessify.com/f/each.click>
 * <https://www.easycounter.com/report/each.click>
 * <https://securityheaders.com/?followRedirects=on&hide=on&q=each.click>
 * <https://observatory.mozilla.org/analyze/each.click#third-party>
 * <https://whois.domaintools.com/each.click>
-* <https://whatcms.org/?s=each.click>
 * <https://wave.webaim.org/report#/http://each.click/>
 * <https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Feach.click%2F>
 * <https://validator.w3.org/i18n-checker/check?uri=http%3A%2F%2Feach.click%2F#validate-by-uri+>
