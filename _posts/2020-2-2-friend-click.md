@@ -11,7 +11,7 @@ Write reviews about the services you used. Leave positive and negative ratings. 
 <http://friend.click/>
 
 Check site: 
-* <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Ffriend.click%2F> https://web.dev/measure/
+* <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Ffriend.click%2F>
 * <https://requestmap.webperf.tools/render/201202_Di87_7e00108aa7310e7a61d341c6db1d0458>
 * <https://webpagetest.org/result/201202_Di87_7e00108aa7310e7a61d341c6db1d0458/>
 * <https://fae.disability.illinois.edu/pages/17621ddf2f9ba9ae/rc/all/page/1/>
