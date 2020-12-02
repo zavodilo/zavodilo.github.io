@@ -5,7 +5,7 @@ title: Near business
 
 Near business
 
-#Near business
+# Near business
 
 BUSINESSES OF THE WORLD
 Fast and easy street viewing. Search for a place. Find local businesses, view maps and get driving directions.
@@ -19,7 +19,7 @@ Information for current place.
 
 Check site:
 * <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Fnear.business> 
-* <https://requestmap.webperf.tools/render/201202_DiKQ_5ab58d9dff4365d22cc7d90424faa84b>
+* <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Fnear.business%2F>
 * <https://webpagetest.org/result/201202_Di0D_d18b594bdb2d9ea65781e8b39b11a2b1/>
 * <https://fae.disability.illinois.edu/pages/1762248c58bb244b/rc/all/page/1/>
 * <https://fae.disability.illinois.edu/pages/176224922396321e/rc/all/page/1/>
@@ -42,12 +42,10 @@ Check site:
 * <https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fnear.business%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
 * <https://datayze.com/site-validator?domain=http%3A%2F%2Fnear.business%2F&parameters=&exclude=>
 * <http://www.wholinks2me.com/details.php?url=near.business>
-* <https://www.accessify.com/f/near.business>
 * <https://www.easycounter.com/report/near.business>
 * <https://securityheaders.com/?followRedirects=on&hide=on&q=near.business>
 * <https://observatory.mozilla.org/analyze/near.business#third-party>
 * <https://whois.domaintools.com/near.business>
-* <https://whatcms.org/?s=near.business>
 * <https://wave.webaim.org/report#/http://near.business/>
 * <https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Fnear.business%2F>
 * <https://validator.w3.org/i18n-checker/check?uri=http%3A%2F%2Fnear.business%2F#validate-by-uri+>
