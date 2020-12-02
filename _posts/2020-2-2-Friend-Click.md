@@ -8,11 +8,11 @@ Friend click
 # Friend click
 
 Write reviews about the services you used. Leave positive and negative ratings. Share your experience. Write your story as if you were telling a friend. 
-<http://friend.click/>
+<http://friend.click>
 
 Check site: 
 * <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Ffriend.click%2F>
-* <https://requestmap.webperf.tools/render/201202_Di87_7e00108aa7310e7a61d341c6db1d0458>
+* <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Ffriend.click>
 * <https://webpagetest.org/result/201202_Di87_7e00108aa7310e7a61d341c6db1d0458/>
 * <https://fae.disability.illinois.edu/pages/17621ddf2f9ba9ae/rc/all/page/1/>
 * <https://fae.disability.illinois.edu/pages/17621e0b12775376/rc/all/page/1/>
@@ -35,12 +35,10 @@ Check site:
 * <https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Ffriend.click%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
 * <https://datayze.com/site-validator?domain=http%3A%2F%2Ffriend.click%2F&parameters=&exclude=>
 * <http://www.wholinks2me.com/details.php?url=friend.click>
-* <https://www.accessify.com/f/friend.click>
 * <https://www.easycounter.com/report/friend.click>
 * <https://securityheaders.com/?followRedirects=on&hide=on&q=friend.click>
 * <https://observatory.mozilla.org/analyze/friend.click#third-party>
 * <https://whois.domaintools.com/friend.click>
-* <https://whatcms.org/?s=friend.click>
 * <https://wave.webaim.org/report#/http://friend.click/>
 * <https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Ffriend.click%2F>
 * <https://validator.w3.org/i18n-checker/check?uri=http%3A%2F%2Ffriend.click%2F#validate-by-uri+>
