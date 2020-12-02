@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Orgs services
+title: Services
 ---
 
 Orgs services
@@ -25,7 +25,7 @@ Walk-in clinics are a convenient resource for healthcare consumers needing treat
 
 Check site:
 * <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Forgs.services%2F>
-* <https://requestmap.webperf.tools/render/201202_Di3Y_ba829a9f0dbfa6fa6d64e4113c499540>
+* <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Forgs.services>
 * <https://webpagetest.org/result/201202_Di7Y_fd8ebd46631e51e0d57720b5735da79a/>
 * <https://fae.disability.illinois.edu/pages/1762252878a2604e/rc/all/page/1/>
 * <https://fae.disability.illinois.edu/pages/1762255597c7c8ca/rc/all/page/1/>
@@ -48,12 +48,10 @@ Check site:
 * <https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Forgs.services%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
 * <https://datayze.com/site-validator?domain=http%3A%2F%2Forgs.services%2F&parameters=&exclude=>
 * <http://www.wholinks2me.com/details.php?url=orgs.services>
-* <https://www.accessify.com/f/orgs.services>
 * <https://www.easycounter.com/report/orgs.services>
 * <https://securityheaders.com/?followRedirects=on&hide=on&q=orgs.services>
 * <https://observatory.mozilla.org/analyze/orgs.services#third-party>
 * <https://whois.domaintools.com/orgs.services>
-* <https://whatcms.org/?s=orgs.services>
 * <https://wave.webaim.org/report#/http://orgs.services/>
 * <https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Forgs.services%2F>
 * <https://validator.w3.org/i18n-checker/check?uri=http%3A%2F%2Forgs.services%2F#validate-by-uri+>
