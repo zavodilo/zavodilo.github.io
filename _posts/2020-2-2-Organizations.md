@@ -28,7 +28,7 @@ New Zealand, Tonga, Vanuatu
 
 Check site:
 * <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Forgs.click%2F>
-* <https://requestmap.webperf.tools/render/201202_DiW1_04482399385a1c0a56d8a77683ae30d3>
+* <https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=http%3A%2F%2Forgs.click>
 * <https://webpagetest.org/result/201202_DiKF_6c9332acf38bdceeb30c2a06aec36faf/>
 * <https://fae.disability.illinois.edu/pages/1762268f21ff00bb/rc/all/page/1/>
 * <https://fae.disability.illinois.edu/pages/176226837d0f0667/rc/all/page/1/>
@@ -51,12 +51,10 @@ Check site:
 * <https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Forgs.click%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
 * <https://datayze.com/site-validator?domain=http%3A%2F%2Forgs.click%2F&parameters=&exclude=>
 * <http://www.wholinks2me.com/details.php?url=orgs.click>
-* <https://www.accessify.com/f/orgs.click>
 * <https://www.easycounter.com/report/orgs.click>
 * <https://securityheaders.com/?followRedirects=on&hide=on&q=orgs.click>
 * <https://observatory.mozilla.org/analyze/orgs.click#third-party>
 * <https://whois.domaintools.com/orgs.click>
-* <https://whatcms.org/?s=orgs.click>
 * <https://wave.webaim.org/report#/http://orgs.click/>
 * <https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Forgs.click%2F>
 * <https://validator.w3.org/i18n-checker/check?uri=http%3A%2F%2Forgs.click%2F#validate-by-uri+>
