@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Google Seo links for firend.click
+title: Google Seo links for friend-click
 ---
 
-Google Seo links for firend.click
+Google Seo links for friend-click
 
 
 * <http://ditu.google.cn/url?q=http://friend.click/>
