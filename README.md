@@ -2,6 +2,7 @@
 # Jekyll Demo Catalog site example
 
 * <http://google.com/>
+* <http://aim.business/>
 * <http://friend.click/>
 * <http://each.click/>
 * <http://hit.click/>
