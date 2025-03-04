@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+О сайте
 
-### More Information
+### Основное описание
 
-A place to include any other types of information that you'd like to include about yourself.
+Тут будет блог с записакми для себя
 
-### Contact me
+### Контакты
+
+Тут может быть будет почта для связи со мной
 
 [email@domain.com](mailto:email@domain.com)
