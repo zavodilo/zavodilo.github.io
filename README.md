@@ -1,28 +1,3 @@
-
-# Jekyll Demo Catalog site example
-
-* <http://google.com/>
-* <http://aim.business/>
-* <http://friend.click/>
-* <http://each.click/>
-* <http://hit.click/>
-* <http://bing.com/>
-* <http://yahoo.com/>
-* <http://yadex.com/>
-* <http://near.business/>
-* <http://maps.pics/>
-* <http://orgs.click/>
-* <http://firms.click/>
-* <http://orgs.work/>
-* <http://orgs.services/>
-* <http://geo.pics/>
-* <http://mall.style/>
-* <http://bank.sexy/>
-* <http://map.sexy/>
-* <http://gis.today/>
-* <http://horeca.contact/>
-* <http://where.wtf/>
-
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
